@@ -1,4 +1,4 @@
-​
+
 
 ## Hi 👋 Here is Interstellar6
 
@@ -10,25 +10,21 @@
 
 ![](https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![](https://img.shields.io/badge/ASUS-0096D6?style=for-the-badge&logo=asus&logoColor=white)
 
-​
 
-​
+
+
 
 🏡 Here you can find me😎. [Interstellar's Blog🏛️](https://interstellar6.github.io/)
 
-​
-
-​
-
-![](https://github-readme-stats.vercel.app/api?username=Interstellar6&count_private=true&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true) 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Interstellar6&theme=radical)
 
-​
+
+![](https://github-readme-stats.vercel.app/api?username=Interstellar6&count_private=true&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Interstellar6&theme=radical)
+
+
 
 ---
 
-![](https://wakatime.com/share/@88fa652e-dcad-4c71-a5c7-87eab1c1fb02/b87abc9a-6f01-4038-8d03-a063ac91ba3d.svg)
 
-​
+
