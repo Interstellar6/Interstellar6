@@ -10,9 +10,7 @@
 
 
 
-
-
-🏡 Here you can find me😎. [Interstellar's Blog🏛️](https://interstellar6.github.io/)
+#### 🏡 Here you can find me😎. [Interstellar's Blog🏛️](https://interstellar6.github.io/)
 
 
 
